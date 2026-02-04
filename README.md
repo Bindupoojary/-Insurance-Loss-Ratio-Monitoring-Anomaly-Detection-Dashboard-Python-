@@ -1,4 +1,4 @@
-Insurance Loss Ratio Monitoring and Anomaly Detection
+<h1>Insurance Loss Ratio Monitoring and Anomaly Detection</h1>
 
 <hr>
 This project simulates an end to end analytics workflow for monitoring insurance business performance using key KPIs like Loss Ratio, Claims Trends, and Customer Success Metrics.

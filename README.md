@@ -95,11 +95,12 @@ Exports generated:
 monthly_kpis_report.csv
 
 loss_ratio_alerts.csv
+<hr>
 
 Example Output
 
 The notebook flags months where claims significantly deviate from normal patterns, helping teams investigate root causes.
-
+<hr>
 Tools Used
 
 Python
@@ -109,3 +110,4 @@ Pandas
 NumPy
 
 Matplotlib
+<hr>

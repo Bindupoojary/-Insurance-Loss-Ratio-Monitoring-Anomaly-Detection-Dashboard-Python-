@@ -1,5 +1,5 @@
 Insurance Loss Ratio Monitoring and Anomaly Detection
-Project Overview
+
 <hr>
 This project simulates an end to end analytics workflow for monitoring insurance business performance using key KPIs like Loss Ratio, Claims Trends, and Customer Success Metrics.
 
@@ -44,7 +44,7 @@ FCR flag
 Ticket resolution time
 <hr>
 Dataset file:
-insurance_loss_ratio_dataset_30k.csv
+insurance_loss_ratio_dataset.csv
 <hr>
 Key Metrics Tracked
 Insurance KPI
